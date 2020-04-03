@@ -3,3 +3,8 @@ its a first concept. A HTML page or tool who looks easy and is to enhance your p
 it is still in progress
 and
 it is for everyone
+<br>
+todo:
+-upgrade it a bit for other peoples
+<br>
+-place it to firefox as an addon
