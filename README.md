@@ -5,7 +5,7 @@ it is still in progress
 and
 it is for everyone
 <br>
-todo:
+todo:<br>
 -upgrade it a bit for other peoples
 <br>
 -place it to firefox as an addon
