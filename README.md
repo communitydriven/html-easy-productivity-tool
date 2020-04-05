@@ -31,17 +31,28 @@ https://github.com/github/opensource.guide/blob/master/_articles/de/how-to-contr
 Warum aber sind hier unzählige Buttons . . . Weshalb muss eine Seite so complicated sein . . . 😭 <br>
 
 "Bevor Sie etwas tun, sollten Sie kurz sicherstellen, dass Ihre Idee nicht schon an anderer Stelle besprochen wurde." yes . . . <br><br>
-
-<br>= = = = = = = = = = = = = = = = = = = = = = = =<br>
+= = = = = = = = = = = = = = = = = = = = = = = =<br>
+= = = = = = = = = = = = = = = = = = = = = = = =<br>
 Notes for me:<br>
 Actually Mainpages: <br>
 https://stackexchange.com/sites# <br>
 https://www.reddit.com/subreddits/leaderboard/ <br>
 subgroups:<br>
 Technology:<br>
-https://stackapps.com/
+https://stackapps.com/ <br>
 
-<br><br>
+cms:
+https://drupal.stackexchange.com/ <br>
+https://craftcms.stackexchange.com/ <br>
+https://sitecore.stackexchange.com/ <br>
+https://joomla.stackexchange.com/ <br>
+https://civicrm.stackexchange.com/ <br>
+https://tridion.stackexchange.com/ <br>
+
+
+
+<br> 
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 Culture-Recreation-Psychology: todo | Life: todo | Science: todo | Professional: todo | Business: todo
 https://space.stackexchange.com/ <br>
 https://stackexchange.com/sites?view=list#culturerecreation-traffic <br>
