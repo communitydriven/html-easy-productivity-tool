@@ -10,9 +10,8 @@ it is for everyone<br>
 At the Moment this Tool makes an Table/List for 2 Topics.<br>
 Topic-1 are Programs/Tools/Apps/Devices/Gadget(further i say to that "App=Application") what you use on your Computer or Smartphone. <br>
 What is the Benefit of this for you: You get all the Apps one one Paper and whenever you install your Operation System or Buy a new Computer or Device you know what you need and where you get that. Your Productivity will be better and you do not confuse yourself and dont damage your own brain(i dont know right now how to tell it to english the right way).<br><br>
-Topic-2 are = = = = = <br>
-
-Benefits are: We go to the Digital Future. Now we have so much Pages,Contents,Games,Videos,Musik, . . You do not know what to see and how you can focus on which. We go now just to the Example of Youtube now. There are so many Communitys/Groups and Contentcreators you like or not like. Get Focused. Make a list which side you need for what and which Channel you need for what and when you need to look it. (Psychologic dependant). More more more . . .
+Topic-2 are Webpages, Communitys, Users, Peoples, Teams and so on <br>
+Benefits are: We go to the Digital Future. Now we have so much Pages,Contents,Games,Videos,Musik, . . You do not know what to see and how you can focus on which. We go now just to the Example of Youtube now. There are so many Communitys/Groups and Contentcreators you like or not like. Get Focused. Make a list which side you need for what and which Channel you need for what and when you need to look it. (Psychologic dependant). More more more . . . There will be an iframe of youtube where you can see the newest uploads from your Subscription OF THE TOPIC. (youtube do not very good job=> A Rich Company sleeps too long)
 <br><br>
 
 Topic-3: todo for you. Give me your wishes.<br>
