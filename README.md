@@ -38,5 +38,11 @@ Actually Mainpages: <br>
 https://stackexchange.com/sites# <br>
 https://www.reddit.com/subreddits/leaderboard/ <br>
 subgroups:<br>
+Technology:<br>
 https://stackapps.com/
 
+<br><br>
+Culture-Recreation-Psychology: todo <br>
+Life: todo <br>
+Science: todo <br>
+Professional: todo <br>
