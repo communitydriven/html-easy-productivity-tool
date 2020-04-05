@@ -1,0 +1,249 @@
+<html><head><title>otscript</title>
+<style type="text/css">
+body {background-color: #cec7c1;}
+.primbutton{background-color: orange;
+height: 30px;}
+</style><h2>Notes, Remember Me</h2></head>
+<body>
+<!-- works with Firefox 74.0 (64-Bit) -->
+<div>Menu: <button onclick="shownotes()">Starter</button>
+<button onclick="DisplayInputUsers()">Community</button>
+<button onclick="DisplayInputApps()">Apps</button>
+<button onclick="DisplayCorrection()">Correction</button>
+<button onclick="DisplayOutput()">Output</button></div><br>
+
+<div style="display:none" id="InputUserEnablediv">
+<table border="1" rules="rows">
+<thead><tr><th>Input-Users</th></tr></thead><tbody>
+<tr><td>Page:</td><td><input type="text" size="40" id="pageInput"></td></tr>
+<tr><td>Path:</td><td><input type="text" size="60" id="PfadInput"></td></tr>
+<tr><td>User:</td><td><input type="text" size="60" id="userInput"></td></tr>
+<tr><td>Content:</td><td><input type="text" size="60" id="contentInput"></td></tr>
+<tr><td>Typ:</td><td>
+<select id="TypInput">
+<option value="--todo--">--todo--</option>
+<option value="entspannt">entspannt</option>
+<option value="content">content</option>
+<option value="Need-Brain-Space">Need-Brain-Space</option>
+</select></td></tr>
+<tr><td>save-to-browser</td><td><input type="button" value="Temporary-Array-save" onclick="savetoarray()" class="primbutton"/></td></tr>
+</tbody></table><br>
+<div>Temporary save in the Browsercache:</div>
+
+
+
+
+
+
+
+
+
+<table border="1" rules="all"><thead><tr><th>Page</th><th>User</th><th>Maincontent</th><th>Art</th><th></th></tr></thead><tbody>
+<tr><td><div id="textuser1"></div></td><td><div id="textuser2"></div></td><td><div id="textuser3"></div></td><td><div id="textuser4"></div></td><td><div id="createuserradio"></div></td></tr>
+</tbody></table><br></div>
+
+
+
+
+
+
+
+
+
+
+<div style="display:none" id="InputAppsEnablediv">
+<table border="1" rules="rows">
+<thead><tr><th>Input-Apps</th></tr></thead><tbody>
+<tr><td>Tool-name</td><td><input type="text" size="60" id="Input_app_name"></td></tr>
+<tr><td>Addon-for</td><td><input type="text" size="60" id="Input_app_parent"></td></tr>
+<tr><td>Usage</td><td><input type="text" size="60" id="Input_app_usage"></td></tr>
+<tr><td>Thanks-to</td><td><input type="text" size="60" id="Input_app_thanks"></td></tr>
+<tr><td>Path1</td><td><input type="text" size="60" id="Input_app_link1"></td></tr>
+<tr><td>Path2</td><td><input type="text" size="60" id="Input_app_link2"></td></tr>
+<tr><td>save-to-browser</td><td><input type="button" value="Temporary-Array-save" onclick="savetoarraymyapps()" class="primbutton"/></td></tr>
+</tbody></table><br>
+<div>Temporary save in the Browsercache:</div>
+<table border="1" rules="all"><thead><tr><th>Tool-name</th><th>Addon-for</th><th>Usage</th><th>Thanks</th></tr></thead><tbody>
+<tr><td><div id="textapp1"></div></td><td><div id="textapp2"></div></td><td><div id="textapp3"></div></td><td><div id="textapp4"></div></td></tr>
+</tbody></table><br></div>
+
+<div style="display:none" id="DisplayOutputid">
+<table border="1" rules="rows">
+<thead><tr><th>Output:</th></tr></thead><tbody>
+<tr><td>Download-All</td><td><input type="button" value="Direct-HTML-File-download" onclick="OnDownloadFile()" />
+<a id="downloadLink" href="" download="documentme.html" style="display: none;"></a></td></tr>
+<tr><td>Show with HTML here</td><td><button id="text1zu1">DisplayOnBrowser</button><br></td></tr>
+<tr><td>Connect with Mail or Cloud</td><td><button id="SendHTMLToAPath">Link-With-Path</button><br></td></tr>
+</tbody></table><br>
+<p id="text1zu1ort">Here-is-the-output<br></p>
+</div>
+
+<div style="display:none" id="DisplayCorrectionEnablediv">
+<table border="1" rules="rows">
+<thead><tr><th>Correction </th></tr></thead><tbody>
+<tr><td>Rewrite Row:<input type="number" size="5" id="Rewriterow"><input type="button" value="Rewrite" onclick="rewriterow()"/></td></tr>
+<tr><td><button onclick="EnableDelete()">Enable Delete</button><div style="display:none" id="Deleterowenable">Delete Row: <input type="number" size="5" id="deleterow"><input type="button" value="Delete" onclick="deleterow()"/></div></td></tr>
+<tr><td>Upload File: </td></tr>
+<tr><td>Get from Url: </td></tr>
+</tbody></table><br></div>
+
+<script type="text/javascript">
+var tweets=["Users:"];
+var tweetconv=["Users:"];
+var myapps=["Tools:"];
+var myappsdocument=["Tools:"];
+var mydocumentheader=[""];
+
+mydocumentheader="<style type=\"text/css\">body {background-color: gainsboro;}a{text-decoration:none;}a:hover{text-decoration: underline; color: darkorange;}table {width: 50%;}th {cursor: pointer;}th:hover{color: darkorange;}th, td {text-align: left;padding: 5px;}tr:nth-child(even) {background-color: #f2f2f2}</style>";
+
+function savetoarray(){
+/*tweets.push("<br>");*/
+tweets.push("\n");
+tweets.push("<table border=\"1\" rules=\"rows\"><tr><td>");
+tweets.push(document.getElementById("pageInput").value);
+tweets.push("</td><td><a href=\"");
+tweets.push(document.getElementById("PfadInput").value);
+tweets.push("\" target=\"blank\">");
+tweets.push(document.getElementById("userInput").value);
+tweets.push("</a></td><td>");
+tweets.push(document.getElementById("contentInput").value);
+tweets.push("</td><td>");
+tweets.push(document.getElementById("TypInput").value);
+tweets.push("</td></tr></table>");
+tweetconv = tweets.join(" ");
+console.log(tweetconv);
+/*alert('inputs -> '+ tweets);*/
+
+/*start-show,me,the,input*/
+var inputpfad = document.getElementById("PfadInput").value;
+var inputpage = document.getElementById("pageInput").value;
+var inputuser = document.getElementById("userInput").value;
+var inputcontent = document.getElementById("contentInput").value;
+var inputtyp = document.getElementById("TypInput").value;
+var tempuser1 = document.getElementById("textuser1").innerHTML;
+var tempuser2 = document.getElementById("textuser2").innerHTML;
+var tempuser3 = document.getElementById("textuser3").innerHTML;
+var tempuser4 = document.getElementById("textuser4").innerHTML;
+var tempuser5= document.getElementById("createuserradio").innerHTML;
+
+document.getElementById("textuser1").innerHTML = tempuser1 + "<a href=" +inputpfad +">"+ inputpage+"</a>" +" <br>";
+document.getElementById("textuser2").innerHTML = tempuser2 + inputuser  + "<br>";
+document.getElementById("textuser3").innerHTML = tempuser3 + inputcontent  + "<br>";
+document.getElementById("textuser4").innerHTML = tempuser4 + inputtyp + "</td></tr><br>";
+document.getElementById("createuserradio").innerHTML = tempuser5 + "<input type=\"radio\" id=\"userrowpick\"><br>";
+
+
+/*end-show,me,the,input*/
+}/*end-function*/
+
+function savetoarraymyapps(){
+myapps.push("\n");
+myapps.push("<table border=\"1\" rules=\"rows\"><tr><td><a href=\"");
+myapps.push(document.getElementById("Input_app_link1").value);
+myapps.push("\" target=\"blank\">");
+myapps.push(document.getElementById("Input_app_name").value);
+myapps.push("</a></td><td>");
+myapps.push(document.getElementById("Input_app_parent").value);
+myapps.push("</a></td><td>");
+myapps.push(document.getElementById("Input_app_usage").value);
+myapps.push("</td><td><a href=\"");
+myapps.push(document.getElementById("Input_app_link2").value);
+myapps.push("\" target=\"blank\">");
+myapps.push(document.getElementById("Input_app_thanks").value);
+myapps.push("</a></td></tr></table>");
+myappsdocument = myapps.join(" ");
+console.log(myapps);
+var appname = document.getElementById("Input_app_name").value;
+var appparent = document.getElementById("Input_app_parent").value;
+var appuse = document.getElementById("Input_app_usage").value;
+var appthx = document.getElementById("Input_app_thanks").value;
+var applnk1 = document.getElementById("Input_app_link1").value;
+var applnk2 = document.getElementById("Input_app_link2").value;
+
+
+document.getElementById("textapp1").innerHTML = document.getElementById("textapp1").innerHTML + "<a href=" +applnk1 +">"+ appname+"</a>" +" <br>";
+document.getElementById("textapp2").innerHTML = document.getElementById("textapp2").innerHTML + appparent + "<br>";
+document.getElementById("textapp3").innerHTML = document.getElementById("textapp3").innerHTML + appuse + "<br>";
+document.getElementById("textapp4").innerHTML = document.getElementById("textapp4").innerHTML + appthx + "<br>";
+}
+
+function OnDownloadFile(){
+var oLastUrl = null;
+var sText, oBlob, elLink;
+/*Letzte Objekt-URL löschen (falls vorhanden)*/
+if (oLastUrl == null)
+{
+window.URL.revokeObjectURL(oLastUrl);
+oLastUrl = null;
+}
+
+sText = "";
+for (var i = 0; i < 1; i++)
+{sText +=mydocumentheader + tweetconv + "<br>" + myappsdocument +"\r\n";}
+
+/*Blob-Objekt erzeugen*/oBlob = new Blob([ sText ], { type: "text/plain" });
+/*Download-Element laden*/elLink = document.getElementById("downloadLink");        
+/*URL erzeugen und merken*/oLastUrl = window.URL.createObjectURL(oBlob);         
+/*URL dem HTML-Element zuweisen*/elLink.href = oLastUrl;         
+/*Klick auslösen*/elLink.click();  
+}/*end=OnDownloadFileClicker*/
+
+document.getElementById("text1zu1").onclick=function(){
+var inputuser = document.getElementById("userInput").value;
+var inputpage = document.getElementById("pageInput").value;
+var inputcontent = document.getElementById("contentInput").value;
+document.getElementById("text1zu1ort").innerHTML = document.getElementById("text1zu1ort").innerHTML + "&lttr&gt&lttd&gt&lta href=&quot"+inputpage+"&quot&gt"+inputuser+"&lt/a&gt" + inputcontent  + "&lt/td&gt&lt/tr&gt<br>";
+}
+
+function shownotes(){
+alert ("saves are only temporary to Browsercache. It gets deleted after Browserrefresh.\nSave your Inputs with a download\nCommunity: For Websites, Users, Communitys, Contentcreator you like or need \nApps: For Apps, Tools, Programms, Games or Devices you like or need");
+}
+
+function EnableDelete() {
+var x = document.getElementById('Deleterowenable');
+  if (x.style.display === 'none') {
+    x.style.display = 'block';
+  } else {
+    x.style.display = 'none';
+  }
+}
+
+function DisplayInputUsers() {
+var x = document.getElementById('InputUserEnablediv');
+  if (x.style.display === 'none') {
+    x.style.display = 'block';
+  } else {
+    x.style.display = 'none';
+  }
+}
+
+function DisplayInputApps() {
+var x = document.getElementById('InputAppsEnablediv');
+  if (x.style.display === 'none') {
+    x.style.display = 'block';
+  } else {
+    x.style.display = 'none';
+  }
+}
+
+function DisplayCorrection() {
+var x = document.getElementById('DisplayCorrectionEnablediv');
+  if (x.style.display === 'none') {
+    x.style.display = 'block';
+  } else {
+    x.style.display = 'none';
+  }
+}
+
+function DisplayOutput() {
+var x = document.getElementById('DisplayOutputid');
+  if (x.style.display === 'none') {
+    x.style.display = 'block';
+  } else {
+    x.style.display = 'none';
+  }
+}
+
+</script>
+</body>
+</html>
