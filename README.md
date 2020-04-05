@@ -91,7 +91,7 @@ right-now: <br>
 https://pm.stackexchange.com/ <br>
 https://communitybuilding.stackexchange.com/ <br>
 https://opensource.stackexchange.com/ <br>
-
+https://opensource.stackexchange.com/questions/54/how-do-i-attract-new-programmers/78#78 <br>
 <br> 
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = <br>
 Culture-Recreation-Psychology: todo | Life: todo | Science: todo | Professional: todo | Business: todo
