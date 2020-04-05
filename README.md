@@ -30,4 +30,9 @@ Mega: "Treffen Sie Menschen, die an ähnlichen Dingen interessiert sind" <br>
 https://github.com/github/opensource.guide/blob/master/_articles/de/how-to-contribute.md <br>
 Warum aber sind hier unzählige Buttons . . . Weshalb muss eine Seite so complicated sein . . . 😭 <br>
 
-"Bevor Sie etwas tun, sollten Sie kurz sicherstellen, dass Ihre Idee nicht schon an anderer Stelle besprochen wurde." yes . . .
+"Bevor Sie etwas tun, sollten Sie kurz sicherstellen, dass Ihre Idee nicht schon an anderer Stelle besprochen wurde." yes . . . <br><br>
+
+Actually is Mainpages: <br>
+https://stackexchange.com/sites# <br>
+https://www.reddit.com/subreddits/leaderboard/ <br>
+
