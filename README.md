@@ -24,3 +24,7 @@ Topic-3: todo for you. Give me your wishes.<br>
 
 #Example of App
 Pictures are in "Issue". Seriously why i can not just upload here in the Readme file the Pictures?
+
+Update German/Deutsch:
+Mega: "Treffen Sie Menschen, die an ähnlichen Dingen interessiert sind" 
+https://github.com/github/opensource.guide/blob/master/_articles/de/how-to-contribute.md
