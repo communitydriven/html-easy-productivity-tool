@@ -38,9 +38,8 @@ Actually Mainpages: <br>
 https://github.com/communitydriven/html-tool-buildYourTableList/edit/master/README.md <br>
 https://stackexchange.com/sites# <br>
 https://www.reddit.com/subreddits/leaderboard/ <br>
-*subgroups:*<br>
+* * * subgroups: * * *<br>
 Technology:<br>
-https://stackapps.com/ <br>
 
 cms:<br>
 https://drupal.stackexchange.com/ <br>
@@ -65,23 +64,40 @@ https://stackexchange.com/sites?view=list#culturerecreation-traffic <br>
 https://stackexchange.com/sites?view=list#lifearts-traffic <br>
 https://psychology.stackexchange.com/ <br>
 
+software: <br>
+https://stackapps.com/ <br>
+https://superuser.com/ <br>
+https://askubuntu.com/ <br>
+https://unix.stackexchange.com/ <br>
+https://serverfault.com/ <br>
+https://webapps.stackexchange.com/ <br>
+https://android.stackexchange.com/ <br>
+https://security.stackexchange.com/ <br>
+https://softwareengineering.stackexchange.com/ <br>
+https://gis.stackexchange.com/ <br>
+https://codereview.stackexchange.com/ <br>
+https://blender.stackexchange.com/ <br>
+https://gamedev.stackexchange.com/ <br>
+https://sqa.stackexchange.com/ <br>
+https://ux.stackexchange.com/ <br>
+https://networkengineering.stackexchange.com/ <br>
+https://webmasters.stackexchange.com/ <br>
+https://meta.stackexchange.com/ <br>
+https://dsp.stackexchange.com/ <br>
+https://devops.stackexchange.com/ <br>
+https://codegolf.stackexchange.com/ <br>
+https://reverseengineering.stackexchange.com/ <br>
+https://softwarerecs.stackexchange.com/ <br>
+https://emacs.stackexchange.com/ <br>
+https://elementaryos.stackexchange.com/ <br>
+https://retrocomputing.stackexchange.com/ <br>
+https://ebooks.stackexchange.com/ <br>
+https://computergraphics.stackexchange.com/ <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+right-now: <br>
+https://pm.stackexchange.com/ <br>
+https://communitybuilding.stackexchange.com/ <br>
+https://opensource.stackexchange.com/ <br>
 
 
 
