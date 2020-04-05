@@ -35,13 +35,14 @@ Warum aber sind hier unzählige Buttons . . . Weshalb muss eine Seite so complic
 = = = = = = = = = = = = = = = = = = = = = = = =<br>
 Notes for me:<br>
 Actually Mainpages: <br>
+https://github.com/communitydriven/html-tool-buildYourTableList/edit/master/README.md <br>
 https://stackexchange.com/sites# <br>
 https://www.reddit.com/subreddits/leaderboard/ <br>
 subgroups:<br>
 Technology:<br>
 https://stackapps.com/ <br>
 
-cms:
+cms:<br>
 https://drupal.stackexchange.com/ <br>
 https://craftcms.stackexchange.com/ <br>
 https://sitecore.stackexchange.com/ <br>
@@ -49,10 +50,15 @@ https://joomla.stackexchange.com/ <br>
 https://civicrm.stackexchange.com/ <br>
 https://tridion.stackexchange.com/ <br>
 
-
+hardware:<br>
+https://robotics.stackexchange.com/ <br>
+https://electronics.stackexchange.com/ <br>
+https://raspberrypi.stackexchange.com/ <br>
+https://arduino.stackexchange.com/ <br>
+https://hardwarerecs.stackexchange.com/ <br>
 
 <br> 
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = <br>
 Culture-Recreation-Psychology: todo | Life: todo | Science: todo | Professional: todo | Business: todo
 https://space.stackexchange.com/ <br>
 https://stackexchange.com/sites?view=list#culturerecreation-traffic <br>
