@@ -1,5 +1,7 @@
 # html-easy-productivity-tool
-For: productivity, minimalistic, easy, not-confusing, no-time-wasting, everything on one paper, Make life a little easier
+Warning: Do not read when you are a "Grammar-Sheriff". Other People are welcome.
+For: productivity, minimalistic, easy, not-confusing, no-time-wasting, everything on one paper, Make life a little easier<br>
+A good tool, Device or System is: Lightweight, not resource-hungry, admin-controll-panel instead unfortunately deleting or moving, and so on<br>
 <br>its a first concept. A HTML page or tool who looks easy and is to enhance your productivity and it gives you an output how you want it.
 it is still in progress
 and
