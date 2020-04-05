@@ -1,7 +1,8 @@
 # html-easy-productivity-tool
 Warning: Do not read when you are a "Grammar-Sheriff" or "Fancy-Pants-Full-Of-Color-...-Lover=Opposite of: Lightweight and Speed". All Other People are welcome.<br>
-For: productivity, minimalistic, easy, not-confusing, no-time-wasting, everything on one paper, Make life a little easier<br>
-A good tool, Device or System is: Lightweight, not resource-hungry, admin-controll-panel instead unfortunately deleting or moving, and so on<br>
+I have created this File for Everyone. It shall help you. The Main Ideo is with this to create you favourite THINGS to a List/Table.<br>
+It helps: sproductivity, minimalistic, easy, not-confusing, no-time-wasting, everything on one paper, Make life a little easier<br>
+<br>A good tool, Device or System is: Lightweight, not resource-hungry, admin-controll-panel instead unfortunately deleting or moving, and so on(Later-Another Big Community Projekt: No Android,No IOS, Linuxphone on the way)<br>
 <br>its a first concept. A HTML page or tool who looks easy and is to enhance your productivity and it gives you an output how you want it.
 it is still in progress
 and
