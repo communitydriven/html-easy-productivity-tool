@@ -57,6 +57,7 @@ https://arduino.stackexchange.com/ <br>
 https://hardwarerecs.stackexchange.com/ <br>
 
 software: <br>
+https://opensource.guide/de/starting-a-project/
 https://stackapps.com/ <br>
 https://superuser.com/ <br>
 https://askubuntu.com/ <br>
