@@ -56,14 +56,6 @@ https://raspberrypi.stackexchange.com/ <br>
 https://arduino.stackexchange.com/ <br>
 https://hardwarerecs.stackexchange.com/ <br>
 
-<br> 
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = <br>
-Culture-Recreation-Psychology: todo | Life: todo | Science: todo | Professional: todo | Business: todo
-https://space.stackexchange.com/ <br>
-https://stackexchange.com/sites?view=list#culturerecreation-traffic <br>
-https://stackexchange.com/sites?view=list#lifearts-traffic <br>
-https://psychology.stackexchange.com/ <br>
-
 software: <br>
 https://stackapps.com/ <br>
 https://superuser.com/ <br>
@@ -99,6 +91,11 @@ https://pm.stackexchange.com/ <br>
 https://communitybuilding.stackexchange.com/ <br>
 https://opensource.stackexchange.com/ <br>
 
-
-
+<br> 
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = <br>
+Culture-Recreation-Psychology: todo | Life: todo | Science: todo | Professional: todo | Business: todo
+https://space.stackexchange.com/ <br>
+https://stackexchange.com/sites?view=list#culturerecreation-traffic <br>
+https://stackexchange.com/sites?view=list#lifearts-traffic <br>
+https://psychology.stackexchange.com/ <br>
 
