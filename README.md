@@ -22,6 +22,5 @@ Topic-3: todo for you. Give me your wishes.<br>
 4)upgrade it a bit for other people, what they like. example: music or movies or what they like is not out there<br>
 5)place it to firefox as an addon
 
-#Exmaple of App
-
-https://user-images.githubusercontent.com/51241816/78498589-896b8900-774b-11ea-9d2a-621217a3a3bb.PNG
+#Example of App
+Pictures are in "Issue". Seriously why i can not just upload here in the Readme file the Pictures?
