@@ -7,6 +7,12 @@ It helps: sproductivity, minimalistic, easy, not-confusing, no-time-wasting, eve
 it is still in progress
 and
 it is for everyone<br>
+At the Moment this Tool makes an Table/List for 2 Topics.<br>
+Topic-1 are Programs/Tools/Apps/Devices/Gadget(further i say to that "App=Application") what you use on your Computer or Smartphone. <br>
+What is the Benefit of this for you: You get all the Apps one one Paper and whenever you install your Operation System or Buy a new Computer or Device you know what you need and where you get that. Your Productivity will be better and you do not confuse yourself and dont damage your own brain(i dont know right now how to tell it to english the right way).<br><br>
+Topic-2 are = = = = = <br>
+
+
 <br>todo:<br>
 1)make the code smaller,lightweight  and resourcething<br>
 2)optional: instead of download send the file to email or github or anypage. Afterward get fast the Table from there and upgrade it<br>
