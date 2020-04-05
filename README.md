@@ -28,4 +28,4 @@ Pictures are in "Issue". Seriously why i can not just upload here in the Readme 
 Update German/Deutsch:
 Mega: "Treffen Sie Menschen, die an ähnlichen Dingen interessiert sind" <br>
 https://github.com/github/opensource.guide/blob/master/_articles/de/how-to-contribute.md <br>
-Warum aber sind hier unzählige Buttons . . . Weshalb muss eine Seite so complicated sein . . .
+Warum aber sind hier unzählige Buttons . . . Weshalb muss eine Seite so complicated sein . . . 😭
