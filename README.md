@@ -41,6 +41,30 @@ https://stackexchange.com/sites# <br>
 https://www.reddit.com/subreddits/leaderboard/ <br>
 * * * subgroups: * * *<br>
 Technology:<br>
+ <br>
+ |- Information -| <br>
+reddit <br>
+quora <br>
+stackexchange <br>
+ 
+|- Tools: -| <br>
+primary: <br>
+https://www.tablesgenerator.com/html_tables <br>
+https://www.tablesgenerator.com/mediawiki_tables <br>
+https://www.tablesgenerator.com/text_tables <br>
+https://www.tablesgenerator.com/markdown_tables <br>
+https://infogram.com/create/table <br>
+https://truben.no/table/ <br>
+https://www.latex-tables.com/new.html <br>
+secondary: <br>
+https://www.thewindowsclub.com/best-free-online-table-generator-tools-to-create-tables-for-any-purpose <br>
+https://www.rapidtables.com/web/tools/html-table-generator.html <br>
+https://mdbootstrap.com/docs/jquery/tables/generator/ <br>
+https://html-cleaner.com/html-table-generator/ <br>
+https://htmlg.com/html-editor/ <br>
+https://htmltidy.net/ <br>
+https://html-css-js.com/ <br>
+https://divtable.com/generator/ <br>
 
 cms:<br>
 https://drupal.stackexchange.com/ <br>
