@@ -82,7 +82,7 @@ https://arduino.stackexchange.com/ <br>
 https://hardwarerecs.stackexchange.com/ <br>
 
 software: <br>
-https://opensource.guide/de/starting-a-project/
+https://opensource.guide/de/starting-a-project/ <br>
 https://stackapps.com/ <br>
 https://superuser.com/ <br>
 https://askubuntu.com/ <br>
@@ -120,7 +120,7 @@ https://opensource.stackexchange.com/questions/54/how-do-i-attract-new-programme
 https://opensource.guide/de/building-community/ <br>
 <br> 
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = <br>
-Culture-Recreation-Psychology: todo | Life: todo | Science: todo | Professional: todo | Business: todo
+Culture-Recreation-Psychology: todo | Life: todo | Science: todo | Professional: todo | Business: todo  <br>
 https://space.stackexchange.com/ <br>
 https://stackexchange.com/sites?view=list#culturerecreation-traffic <br>
 https://stackexchange.com/sites?view=list#lifearts-traffic <br>
