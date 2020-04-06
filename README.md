@@ -1,4 +1,5 @@
 # html-easy-productivity-tool
+tablesgenerator.com does the job^^
 Warning: Do not read when you are a "Grammar-Sheriff" or "Fancy-Pants-Full-Of-Color-TheMoreButtonsTheBetter...-Lover=Opposite of: Lightweight and Speed". All Other People are welcome.<br>
 I have created this File for Everyone. It shall help you. The Main Idea is with this to create you favourite THINGS to a List/Table.<br>
 It helps: sproductivity, minimalistic, easy, not-confusing, no-time-wasting, everything on one paper, Make life a little easier, Enhance your Workflow and your Funflow<br>
